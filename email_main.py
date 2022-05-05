@@ -30,9 +30,9 @@ messagesInt = int(messages[0])
 typ, msg_ids = imap.search(None, '(SUBJECT "bourse")')
 print( msg_ids)
 
-for msg_id in range(msg_ids[0].split(), -1):
+for msg_id in msg_ids[0].split():
     # fetch the email message by ID
-    res, msg = imap.fetch(str(msg_id), "(RFC822)")
+    res, msg = imap.fetch(msg_id, "(RFC822)")
     for response in msg:
         if isinstance(response, tuple):
             # parse a bytes email into a message object
