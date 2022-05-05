@@ -6,15 +6,16 @@ import os
 import string
 
 # Account credentials
-username = "bellemin.victor@gmail.com"
+username = "victorbellemin@outlook.fr"
 password = "Godille73"
-
+server = "outlook.office365.com" 
+# imap.gmail.com
 def clean(text):
     # clean text for creating a folder
     return "".join(c if c.isalnum() else "_" for c in text)
 
 # create an IMAP4 class with SSL
-imap = imaplib.IMAP4_SSL("imap.gmail.com")
+imap = imaplib.IMAP4_SSL(server)
 
 # Authentificate
 imap.login(username, password)
@@ -26,9 +27,7 @@ N = 3
 # total number of emails
 messagesInt = int(messages[0])
 
-
-typ, msg_ids = imap.search(None, '(SUBJECT "bourse")')
-print( msg_ids)
+typ, msg_ids = imap.search(None, '(SUBJECT "Confirmation")', '(FROM "aircanada")')
 
 for msg_id in msg_ids[0].split():
     # fetch the email message by ID
@@ -91,7 +90,7 @@ for msg_id in msg_ids[0].split():
                 filename = "index.html"
                 filepath = os.path.join(folder_name, filename)
                 # write the file
-                open(filepath, "w").write(body)
+                open(filepath, "w", encoding="utf-8").write(body)
                 # open in the default browser
                 webbrowser.open(filepath)
             print("="*100)
