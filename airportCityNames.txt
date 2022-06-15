@@ -1,0 +1,1760 @@
+Praia
+Cape Town
+Johannesburg - Johannesburg Int'l
+Algiers
+Annaba
+Constantine
+Oran (Ouahran)
+Bengueka
+Cabinda
+Luanda - 4 de Fevereiro
+Cotonou
+Francistown
+Gaborone
+Maun
+Selibi Phikwe
+Bobo/Dioulasso
+Ouagadougou
+Sal
+Bambari
+Bangassou
+Bangui
+Berberati
+Biraro
+Bria
+Carnot
+Ouadda
+Abeche
+Moundou
+N'Djamena
+Anjouan
+Moroni - Prince Said Ibrahim
+Moroni - Iconi
+Brazzaville
+Pointe Noire
+Kinshasa - N'Djili
+Lisala
+Yamoussoukro
+Djibouti
+Abu Rudeis
+Abu Simbel
+Al Arish
+Al Arish
+Alexandria, El Nhouza Airport
+Assiut
+Aswan, Daraw Airport
+Borg El Arab Airport
+Cairo Int'l
+El Minya
+Hurghada Int'l
+Kharga - New Valley
+Luxor
+Marsa Matrah (Marsa Matruh)
+New Valley - Kharga
+Port Said
+Santa Katarina - Mount Sinai
+Sharm El Sheikh
+Siwa
+Malabo
+Addis Ababa
+Lambarene
+Libreville
+Moanda
+Mouila
+Mvengue
+Port Gentil
+Oyem
+Banjul
+Accra
+Abidjan
+Bouake
+Daloa
+Korhogo
+Man
+San Pedro
+Sassandra
+Malindi
+Mombasa - Moi International
+Nairobi
+Maseru - Moshoeshoe Int'l
+Monrovia
+Monrovia - Roberts Int'l
+Bengasi
+Sehba
+Tripoli - Tripoli Int'l
+Antananarivo (Tanannarive)
+Majunga
+Blantyre
+Lilongwe - Lilongwe International
+Bamako
+Nouadhibou
+Nouakchott
+Zouerate
+Dzaoudzi
+Agadir
+Al Hoceima
+Casablanca
+Casablanca, Mohamed V
+Fes
+Marrakech - Menara
+Ouarzazate
+Oujda
+Rabat - Sale
+Tanger - Boukhalef
+Beira
+Maputo - Maputo International
+Katima Mulilo/Mpacha
+Keetmanshoop
+Luederitz
+Mokuti
+Ondangwa
+Oranjemund
+Rundu
+Swakopmund
+Tsumeb
+Windhoek - Eros
+Windhoek - Hosea Kutako Int'l
+Agades
+Arlit
+Maradi
+Niamey
+Zinder
+Abuja International
+Kano
+Lagos - Murtala Muhammed
+Port Harcourt
+Saint Denis de la Reunion
+Kigali - Gregoire Kayibanda
+Sao Tome
+Dakar
+Mahe - Seychelles Int'l
+Freetown
+Mogadischu
+Aggeneys
+Alexander Bay
+Alldays
+Bloemfontein
+Durban
+East London
+Ellisras
+George
+Kimberley
+Kleinsee
+Lanseria
+Lusisiki
+Margate
+Messina
+Mkambati
+Mzamba
+Nelspruit
+Newcastle
+Oudtshoorn
+Phalaborwa
+Pietermaritzburg
+Pietersburg
+Pilanesberg/Sun City
+Plettenberg Bay
+Port Elizabeth
+Pretoria - Wonderboom Apt.
+Richards Bay
+Sishen
+Skukuza
+Springbok
+Thaba'Nchu
+Ulundi
+Umtata
+Upington
+Vryheid
+Walvis Bay
+Welkom
+Kassala
+Khartoum
+Paramaribo - Zanderij Int'l
+Manzini - Matsapha Int'l
+Arusha
+Dar es Salam (Daressalam)
+Kilimadjaro
+Djerba
+Monastir
+Sfax
+Tunis - Carthage
+Entebbe
+Gulu
+Kisangani
+Lumbumbashi
+Chipata
+Kitwe
+Lusaka
+Mfuwe
+N'Dola
+Buffalo Range
+Bulawayo
+Gweru
+Harare
+Hwange National Park
+Masvingo
+Salisbury
+Victoria Falls
+Sapporo
+Sapporo - Okadama
+Hong Kong - Int'l Airport (HKIA)
+Kobe
+Kyoto
+Nagoya - Komaki AFB
+Tokyo
+Tokyo - Haneda
+Tokyo - Narita
+Male - International
+Kathmandu - Tribhuvan
+Seoul - Incheon Int'l Airport
+Seoul - Kimpo
+Colombo
+Barisal
+Chittagong
+Dhaka
+Sylhet
+Paro
+Beijing
+Beijing - Nanyuan Airport
+Shanghai - Hongqiao
+Shanghai - Pu Dong
+Tianjin
+Xiamen
+Dongguan
+Guangzhou (Canton) - Baiyun (White Cloud)
+Shenzhen
+Nanning
+Harbin (Haerbin)
+Hong Kong - Chek Lap Kok
+Wuhan
+Ahmedabad
+Amritsar
+Anand
+Bagdogra
+Bangalore
+Baronda
+Belgaum
+Bhopal
+Bhubaneswar
+Bombay
+Calcutta (Kolkata) - Netaji Subhas Chandra
+Calicut
+Chandigarh
+Chennai (Madras)
+Cochin
+Coimbatore
+Delhi, Indira Gandhi
+Goa
+Guwahati
+Hyderabad - Begumpet
+Jaipur - Sanganeer
+Jalandhar
+Jamshedpur - Sonari
+Kanpur
+Kolkata (Calcutta) - Netaji Subhas Chandra
+Lucknow
+Madras (Chennai)
+Nagpur
+Patna
+Pune
+Rajkot
+Ranchi
+Srinagar
+Surat
+Thiruvananthapuram
+Tiruchirapally
+Varanasi
+Akita
+Amami
+Aomori
+Komatsu
+Chiba City
+Chitose
+Fukuoka
+Fukushima-shi, Fukushima Airport
+Hachijo Jima
+Hakodate
+Hiroshima International
+Ishigaki
+Kagoshima
+Kochi
+Kumamoto
+Kushiro
+Matsumoto, Nagano
+Matsuyama
+Miyako Jima (Ryuku Islands) - Hirara
+Morioka, Hanamaki
+Miyazaki
+Nagasaki
+Niigata
+Oita
+Okayama
+Okinawa, Ryukyo Island - Naha
+Osaka, Metropolitan Area
+Osaka - Itami
+Osaka - Kansai Int'l Airport
+Sado Shima
+Sapporo - Shin-Chitose Airport
+Sendai
+Takamatsu
+Tokushima
+Toyama
+Yamagata, Junmachi
+Yokohama
+Changchun
+Aktyubinsk
+Alma Ata
+Astana
+Incheon, Incheon Int'l Airport
+Dalian
+Shenyang
+Macau
+Mauritius - S.Seewoosagur Ram Int'l
+Rodrigues Island
+Ulaanbaatar - Buyant Uhaa
+Xi'an - Xianyang
+Jinan
+Qingdao
+Taiyuan
+Chengdu
+Chongqing
+Singapore - Paya Lebar
+Singapore - Changi
+Pu San (Pusan) - Kimhae
+Dushanbe (Duschanbe)
+Kaohsiung Int'l
+Makung
+Taipei - Chiang Kai Shek
+Taipei - Sung Shan
+Samarkand
+Tashkent - Vostochny
+Termez (Termes)
+Urumqi
+Hangchow (Hangzhou)
+Pointe a Pitre
+Bonaire
+Curacao
+St. Marteen
+Nevis
+St. Kitts
+St. Lucia Hewanorra
+St. Lucia Vigle
+St. Martin
+St. Vincent
+Havana - José Martí Int'l
+Holguin
+Santiago - Antonio Maceo Airport
+Varadero
+Casa de Campo/La Romana
+Puerto Plata
+Punta Cana
+Santo Domingo
+Port au Prince
+Kingston - Norman Manley
+Montenego Bay
+Fort de France
+Aguadilla
+Mayaguez
+Ponce
+San Juan Perto
+Tobago
+Port of Spain
+St. Croix
+St. Thomas
+Tortola
+Virgin Gorda
+Beef Island
+Freeport
+Nassau
+Grand Cayman
+Anguilla
+Antigua
+Aruba
+Chub Cay
+Govenors Harbour
+Grand Bahama
+Marsh Harbour
+North Eleuthera
+Rock Sound
+San Salvador
+Treasure Cay
+Bridgetown, Grantley Adams Int'l
+Bermuda
+Panama City - Tocumen International
+San Jose
+San Salvador
+Roatan
+San Pedro Sula
+Santa Rosa Copan
+Tegucigalpa
+Belize City
+Guatemala City
+Managua - Augusto C Sandino
+Sarajevo
+Sofia - Vrazhdebna
+Nadi
+Suva/Nausori
+Nausori
+Budapest, Ferihegy
+Skopje
+Bucharest
+Bucharest, Otopeni
+Eriwan (Yerevan, Jerevan)
+Baku
+Minsk, International
+Mostar
+Bourgas/Burgas
+Gorna
+Ruse
+Silistra
+Targovishte
+Varna
+Vidin
+Dubrovnik
+(Mali) Losinj - Losinj Arpt
+Osijek
+Pula
+Rijeka
+Split
+Zadar
+Zagreb - Pleso
+Tallinn - Pirita Harbour
+Tallinn - Ulemiste
+Tbilisi - Novo Alexeyevka
+Riga
+Wilna (Vilnius)
+Ohrid
+Constanza
+Adler/Sochi
+Chabarovsk (Khabarovsk)
+Chita (Tschita)
+Irkutsk
+Kazan (Ka San)
+Mineralnye Vody
+Moscow - Metropolitan Area
+Moscow - Domodedovo
+Moscow - Sheremetyevo
+Moscow - Vnukovo
+Murmansk
+Novosibirsk - Tolmachevo
+St. Petersburg (Leningrad) - Pulkovo
+Ulan-Ude
+Velikiye Luki (Welikije Luki)
+Arkhangelsk
+Yakutsk
+Bratislava
+Ljubljana - Brnik
+Maribor
+Kiev - Borispol
+Kiev - Zhulhany
+Lvov (Lwow, Lemberg)
+Nikolaev
+Odessa
+Simferopol
+Belgrad (Beograd)
+Nis
+Novi Sad
+Podgorica
+Pristina
+Tivat
+Tirana - Rinas
+Innsbruck - Kranebitten
+Salzburg - W.A. Mozart
+Wien (Vienna) - Vienna Int'l
+Copenhagen
+Helsinki - Vantaa
+Berlin
+Berlin, Schoenefeld
+Berlin, Tegel
+Dresden
+Hamburg - Fuhlsbuettel
+Athens
+Athens, Hellinikon Airport
+Corfu
+Kos
+Mykonos
+Mytilene (Lesbos)
+Rhodos
+Thessaloniki - Makedonia Apt.
+Ibiza
+Cork
+Dublin
+Galway
+Kerry County
+Knock
+Shannon (Limerick)
+Cagliari
+Luga
+Bergen
+Oslo
+Oslo - Sandefjord
+Krakau
+Warsaw
+Lisbon - Lisboa
+Ponta Delgada
+Palma de Mallorca
+Sevilla
+Valencia
+Goteborg
+Stockholm Metropolitan Area
+Stockholm - Arlanda
+Stockholm - Bromma
+Belfast - Harbour
+Belfast International
+Glasgow, Prestwick
+Glasgow
+Inverness
+Andorra La Vella H/P
+Graz
+Klagenfurt
+Linz - Hoersching
+Antwerp
+Brussels
+Liege
+Akrotiri - RAF
+Larnaca
+Limassol
+Nicosia
+Paphos
+Prague - Ruzyne
+Aarhus
+Alborg
+Billund
+Esbjerg
+Faroer
+Karup
+Odense
+Roenne
+Skrydstrup
+Soenderborg
+Thisted
+Enontekioe
+Ivalo
+Joensuu
+Jyvaeskylae
+Kajaani
+Kauhajoki
+Kemi/Tornio
+Kittilä
+Kokkola/Pietarsaari
+Kuopio
+Kuusamo
+Lappeenranta
+Mariehamn (Maarianhamina)
+Mikkeli
+Oulu
+Pori
+Rovaniemi
+Savonlinna
+Seinaejoki
+Sodankylae
+Tampere
+Turku
+Vaasa
+Varkaus
+Ajaccio
+Albi
+Annecy
+Aurillac
+Bastia
+Biarritz
+Bordeaux
+Brest
+Calvi
+Chambery
+Clermont Ferrand
+Dinard
+Figari
+Frejus
+Grenoble
+La Rochelle
+Lannion
+Lille
+Limoges
+Lorient
+Lourdes/Tarbes
+Lyon
+Marseille
+Metz
+Montpellier - Frejorgues
+Mulhouse
+Nancy
+Nantes
+Nice - Cote D'Azur
+Nimes
+Paris
+Paris - Charles de Gaulle
+Paris - Le Bourget
+Paris - Orly
+Pau
+Perpignan
+Quimper
+Rennes
+Roanne
+Rodez
+Saint Brieuc
+St. Etienne
+Strassburg
+Toulouse - Blagnac
+Augsburg
+Bayreuth
+Bremen
+Cologne (Koeln)/Bonn
+Dortmund
+Duesseldorf
+Erfurt
+Frankfurt/Main Int'l Airport
+Frankfurt/Hahn
+Friedrichshafen
+Hannover
+Hof
+Karlsruhe-Baden - Soellingen
+Kiel - Holtenau
+Köln, Köln/Bonn
+Leipzig
+Muenchen (Munich) - Franz Josef Strauss
+Muenster/Osnabrueck
+Muenster/Osnabrueck
+Nürnberg (Nuremberg)
+Paderborn/Lippstadt
+Saarbruecken
+Stuttgart - Echterdingen
+Westerland
+Wiesbaden, Air Base
+Gibraltar
+Araxos
+Chania
+Chios
+Heraklion
+Kalamata
+Karpathos
+Kavalla
+Preveza/Lefkas
+Saloniki
+Samos
+Skiathos
+Thira
+Zakynthos
+Christmas Line
+Egilsstadir
+Reykjavik - Metropolitan Area
+Reykjavik - Keflavik International
+Sligo
+Alghero Sassari
+Ancona
+Bari
+Bergamo
+Bologna
+Brescia, Montichiari
+Brindisi
+Catania
+Florence
+Genoa
+Lamezia Terme
+Lampedusa
+Milan
+Milan - Linate
+Milan - Malpensa
+Milan - Orio Al Serio
+Naples
+Olbia
+Palermo - Punta Raisi
+Pantelleria
+Perugia
+Pescara
+Pisa - Gal Galilei
+Reggio Calabria
+Rimini
+Rome
+Rome - Ciampino
+Rome - Fuimicino
+Trapani
+Treviso
+Trieste
+Turin
+Venice - Marco Polo
+Verona (Brescia) Montichiari
+Verona
+Luxembourg
+Amsterdam, Schiphol
+Den Haag (The Hague)
+Eindhoven
+Lelystad
+Maastricht/Aachen
+Rotterdam
+Alesund
+Alta
+Bardufoss
+Bodo
+Broennoeysund
+Evenes
+Floro
+Hammerfest
+Haugesund
+Kirkenes
+Kristiansand
+Kristiansund
+Lakselv
+Sogndal
+Stavanger
+Tromsoe
+Trondheim
+Gdansk
+Poznan, Lawica
+Stettin
+Faro
+Funchal
+Horta
+Porto
+Porto Santo
+Santa Maria
+Terceira
+Alicante
+Almeria
+Arrecife/Lanzarote
+Badajoz
+Barcelona
+Bilbao
+Cordoba
+Fuerteventura
+Gerona
+Granada
+Jerez de la Frontera/Cadiz
+La Coruna
+Las Palmas
+Madrid - Barajas
+Mahon
+Malaga
+Murcia
+Oviedo
+Reus
+San Sebastian
+Santa Cruz de la Palma
+Santander
+Santiago de Compostela
+Tenerife
+Tenerife - Sur Reina Sofia
+Tenerife - Norte Los Rodeos
+Valladolid
+Valverde
+Vigo
+Vitoria
+Zaragoza
+Longyearbyen - Svalbard
+Helsingborg
+Joenkoeping
+Kalmar
+Karlstad
+Kiruna
+Kristianstad
+Lidkoeping
+Lulea
+Malmo (Malmoe)
+Malmo (Malmoe) - Sturup
+Norrkoeping
+Oerebro
+Ronneby
+Sundsvall
+Vaexjoe
+Vasteras
+Visby
+Altenrhein
+Basel
+Bern
+Bern
+Geneva
+Lugano
+Zurich (Zürich) - Kloten
+Basel/Mulhouse
+Los Rodeos
+Reina Sofia
+Sheffield, City Airport
+Aberdeen
+Birmingham
+Bristol
+Cambrigde
+Cardiff
+Derby (East Midlands)
+Derry (Londonderry)
+Edinburgh
+Guernsey
+Humberside
+Isle of Man
+Jersey
+Leeds/Bradford
+Liverpool
+London
+London - City Airport
+London - Gatwick
+London - Heathrow
+London - Luton
+London - Stansted
+Manchester
+Newcastle
+Orkney
+Southampton - Eastleigh
+Southend
+Stansted (London)
+Stornway
+Sumburgh (Shetland)
+Teesside, Durham Tees Valley
+Wick
+Jerusalem
+Tel Aviv - Ben Gurion Int'l
+Beirut
+Istanbul - Ataturk
+Izmir
+Kabul - Khwaja Rawash
+Bahrain
+Abadan
+Tehran (Teheran) - Mehrabad
+Bagdad, Al Muthana
+Bagdad, Saddam International
+Basra, Basrah
+Kirkuk
+Mosul
+Elat
+Elat, Ovula
+Haifa
+Amman, Queen Alia Intl
+Amman, Civil - Marka Airport
+Aqaba
+Kuwait - Kuwait Int'l
+Jounieh
+Muscat - Seeb
+Salalah
+Bahawalpur
+Bannu
+Chitral
+Dera Ismail Khan
+Faisalabad
+Gilgit
+Gwadar
+Hyderabad
+Islamabad - Islamabad Int'l
+Jacobabad
+Jiwani
+Karachi - Quaid-E-Azam Int'l
+Khuzdar
+Kohat
+Lahore
+Mianwali
+Mirpur
+Moenjodaro
+Multan
+Muzaffarabad
+Nawab Shah
+Panjgur
+Pasni
+Peshawar
+Quetta
+Rahim Yar Khan
+Rawala Kot
+Rawalpindi
+Saidu Sharif
+Sindhri
+Skardu
+Sui
+Sukkur
+Turbat
+Zhob
+Doha
+Adana
+Ankara
+Antalya
+Dalaman
+Ashgabat, Ashkhabat
+Abu Dhabi
+Alfujairah (Fujairah)
+Dubai
+Ras al Khaymah (Ras al Khaimah)
+Sharjah
+Al Ain
+Fujairah, Int'l Airport
+Dhahran
+Jeddah - King Abdulaziz Int'l
+Khamis Mushayat
+Madinah, Mohammad Bin Abdulaziz
+Medina
+Riyadh - King Khaled Int'l
+Tabuk
+Taif
+Yanbu
+Dammam, King Fahad Int'l
+Aleppo
+Damascus, International
+Aden
+Sanaa (Sana'a) - Sana'a International
+Attawapiskat, NT
+Bonaventure, PQ
+Calgary/Banff
+Cambridge Bay
+Churchill
+Cienfuegos
+Deer Lake/Corner Brook
+Edmonton
+Edmonton, International
+Edmonton, Municipal
+Flin Flon
+Fort Albert
+Fort McMurray
+Fort Smith
+Fort St. John
+Fredericton
+Gander
+Gillam
+Goose Bay
+Halifax Int'l
+Hall Beach
+Hamilton
+Harrington Harbour, PQ
+Inuvik
+Iqaluit (Frobisher Bay)
+Kaschechawan, PQ
+Kelowna, BC
+Kuujjuaq (FortChimo)
+Kuujjuarapik
+Lac Brochet, MB
+La Grande
+Leaf Rapids
+London
+Moncton
+Montreal
+Montreal - Dorval (Montréal-Trudeau)
+Montreal - Mirabel
+Nanisivik
+Norman Wells
+Ottawa - Hull
+Port Menier, PQ
+Prince George
+Prince Rupert/Digby Island
+Pukatawagan
+Quebec - Quebec Int'l
+Rainbow Lake, AB
+Regina
+Resolute Bay
+Saint John
+Sandspit
+Saskatoon
+Shamattawa, MB
+Smithers
+South Indian Lake, MB
+St. Augustin, PQ
+St. John's
+St. Pierre, NF
+Terrace
+The Pas
+Thompson
+Thunder Bay
+Toronto Island
+Toronto - Lester B. Pearson
+Toronto
+Val d'Or
+Vancouver - Vancouver Int'l
+Victoria
+Wabush
+Whale Cove, NT
+Whitehorse
+Windsor Ontario
+Winnipeg Int'l
+Yellowknife
+Narsarsuaq
+Soendre Stroemfjord
+Acapulco
+Aguascaliente
+Cancun
+Chichen Itza
+Chihuahua, Gen Fierro Villalobos
+Ciudad Del Carmen
+Ciudad Juarez
+Ciudad Obregon
+Ciudad Victoria
+Colima
+Cozmel
+Culiacan
+Guadalajara
+Hermosillo - Gen. Pesqueira Garcia
+Huatulco
+Ixtapa/Zihuatenejo
+La Paz - Leon
+Lazaro Cardenas
+Leon
+Loreto
+Los Cabos
+Los Mochis
+Manzanillo
+Mazatlan
+Merida
+Mexicali
+Mexico City
+Mexico City - Juarez International
+Minatitlan
+Monterrey
+Monterrey - Aeropuerto Del Norte
+Morelia
+Nuevo Laredo
+Oaxaca
+Puebla
+Puerto Escondido
+Puerto Vallarta
+San Jose Cabo
+San Luis Potosi
+Santa Rosalia
+Tampico - Gen. F. Javier Mina
+Tijuana - Rodriguez
+Tuxtla Gutierrez
+Veracruz
+Villahermosa
+Zacatecas
+Aberdeen, SD
+Abilene, TX
+Akron, OH
+Albany, GA
+Albany, NY
+Albuquerque, NM
+Alexandria, La
+Allentown, PA
+Altoona, PA
+Amarillo, TX
+Anchorage, AK
+Ann Arbor, MI
+Anniston, AL
+Appelton/Neenah/Menasha, WI
+Asheville, NC
+Aspen Snowmass, CO
+Athens, GA
+Athens, OH
+Atlanta, Hartsfield Atlanta Int'l Airport
+Atlantic City, NJ
+Augusta, GA
+Augusta, ME
+Austin, TX
+Bakersfield, CA
+Baltimore Washington Int'l Airport; MD
+Bangor, ME
+Baton Rouge, La
+Beaumont/Pt. Arthur, TX
+Beckley, WV
+Bellingham, WA
+Bemidji, MN
+Benton Harbour, MI
+Bethel, AK
+Billings, MT
+Birmingham, AL
+Bismarck/Mandan, ND
+Bloomington, IL
+Bloomington, IN
+Bluefield, WV
+Boise, ID
+Borrego Springs, CA
+Boston - Logan, MA
+Bozeman, MT
+Bradford/Warren, PA/Olean, NY
+Brainerd, MN
+Bridgeport, CT
+Brookings, SD
+Brunswick, GA
+Buffalo/Niagara Falls, NY
+Bullhead City, NV
+Burbank, CA
+Burlington, IA
+Burlington, VT
+Butte, MT
+Carlsbad, CA
+Casper, WY
+Cedar City, UT
+Cedar Rapids, IA
+Champaign, IL
+Charleston, SC
+Charleston, WV
+Charlotte, NC
+Charlottesville, VA
+Chattanooga, TN
+Cheyenne, WY
+Chicago, Midway, IL
+Chicago O'Hare Int'l Airport, IL
+Chicago, IL
+Chico, CA
+Cincinnati, OH
+Clarksburg, WV
+Cleveland, Burke Lakefront, OH
+Cleveland, Hopkins, OH
+Cody/Powell/Yellowstone, WY
+Coffmann Cove, AK
+College Station/Bryan, TX
+Colorado Springs, CO
+Columbia, SC
+Columbus, GA
+Columbus, OH
+Concord, CA
+Cordova, AK
+Corpus Christi, TX
+Craig, AK
+Crescent City, CA
+Dallas, Love Field, TX
+Dallas/Ft. Worth, TX
+Danville, VA
+Dayton, OH
+Daytona Beach, FL
+Decatur, IL
+Denver International Airport, CO
+Des Moines, IA
+Detroit City, MI
+Detroit Metropolitan Wayne County Airport, MI
+Detroit Metropolitan Area, MI
+Devils Lake, ND
+Dillingham, AK
+Dothan, AL
+Dubois, PA
+Dubuque, IA
+Duluth, MN/Superior, WI
+Durango, CO
+Dutch Harbor, AK
+Eau Clarie, WI
+El Paso, TX
+Elkhart, IN
+Elko, NV
+Elmira, NY
+Ely, NV
+Erie, PA
+Escabana, MI
+Eugene, OR
+Eureka, CA
+Evansville, IN
+Fairbanks, AK
+Fargo, ND, MN
+Farmington, NM
+Fayetteville, AR
+Fayetteville/Ft. Bragg, NC
+Flagstaff, AZ
+Flint, MI
+Florence, SC
+Fort Dodge, IA
+Fort Huachuca/Sierra Vista, AZ
+Fort Lauderdale/Hollywood, FL
+Fort Myers, Metropolitan Area, FL
+Fort Myers, Southwest Florida Reg, FL
+Fort Smith, AR
+Fort Walton Beach, FL
+Fort Wayne, IN
+Franklin/Oil City, PA
+Fresno, CA
+Gadsden, AL
+Gainesville, FL
+Gilette, WY
+Glasgow, MT
+Glendive, MT
+Grand Canyon, AZ
+Grand Forks, ND
+Grand Junction, CO
+Grand Rapids, MI
+Grand Rapids, MN
+Great Falls, MT
+Green Bay, WI
+Greenbrier/Lewisburg, WV
+Greensboro/Winston Salem, NC
+Greenville, MS
+Greenville, NC
+Greenville/Spartanburg, SC
+Groton/New London, CT
+Gulfport/Biloxi, MS
+Gunnison/Crested Butte, CO
+Haines, AK
+Hancock, MI
+Harlington/South Padre Island, TX
+Harrisburg, PA - Harrisburg Skyport
+Harrisburg, PA - Harrisburg Int'l
+Hartford, CT/Springfield, MA
+Havre, MT
+Helena, MT
+Hibbing, MN
+Hickory, NC
+Hilo, HI
+Hilton Head Island, SC
+Homer, AK
+Honolulu, HI
+Hoonah, AK
+Houston, Hobby, TX
+Houston, Intercontinental, TX
+Huntington, OH
+Huntsville, AL
+Huron, SD
+Hyannis, MA
+Hydaburg, AK
+Idaho Falls, ID
+Iliamna, AK
+Imperial, CA
+Indianapolis, IN
+International Falls, MN
+Inykern, CA
+Ithaca/Cortland, NY
+Jackson Hole, WY
+Jackson, MI
+Jackson, MS
+Jackson, TN
+Jacksonville, FL
+Jacksonville, NC
+Jamestown, ND
+Jamestown, NY
+Johnstown, PA
+Joplin, MO
+Juneau, AK - Juneau Int'l
+Kahului, HI
+Kalamazoo/Battle Creek, MI
+Kalispell, MT
+Kamuela, HI
+Kansas City, MO - Int'l
+Kapalua West, HI
+Kaunakakai, HI
+Kenai, AK
+Ketchikan, AK
+Key West, FL
+Killeem, TX
+King Salomon, AK
+Kingston, NC
+Klamath Fall, OR
+Klawock, AK
+Knoxville, TN
+Kodiak, AK
+Kona, HI
+Kotzbue, AK
+Labouchere Bay, AK
+La Crosse, WI
+Lafayette, IN
+Lafayette, La
+Lake Charles, La
+Lake Havasu City, AZ
+Lake Tahoe, CA
+Lanai City, HI
+Lancaster, PA
+Lansing, MI
+Laramie, WY
+Laredo, TX
+Las Vegas, NV
+Latrobe, PA
+Laurel/Hattisburg, MS
+Lawton, OK
+Lebanon, NH
+Lewiston, ID
+Lewistown, MT
+Lexington, KY
+Lihue, HI
+Lincoln, NE
+Little Rock, AR
+Long Beach, CA
+Long Island, AK
+Long Island, Islip, NY - Mac Arthur
+Longview/Kilgore, TX
+Los Angeles, CA - Int'l
+Louisville, KY
+Lubbock, TX
+Lynchburg, VA
+Macon, GA
+Madison, WI
+Manchester, NH
+Marathon, FL
+Marquette, MI
+Martha's Vineyard, MA
+Mason City, IA
+Mattoon, IL
+McAllen, TX
+Medford, OR
+Melbourne, FL
+Memphis, TN
+Merced, CA
+Meridian, MS
+Metlakatla, AK
+Miami, FL
+Midland/Odessa, TX
+Miles City, MT
+Milwaukee, WI
+Minneapolis - St. Paul Int'l Airport, MN
+Minot, ND
+Missula, MT
+Mitchell, SD
+Mobile, AL - Pascagoula, MS
+Modesto, CA
+Moline/Quad Cities, IL
+Monroe, La
+Monterey, CA
+Montgomery, AL
+Montrose/Tellruide, CO
+Morgantown, WV
+Moses Lake, WA
+Mt. McKinley, AK
+Muscle Shoals, AL
+Muskegon, MI
+Myrtle Beach, SC
+Nantucket, MA
+Naples, FL
+Nashville, TN
+New Bern, NC
+New Haven, CT
+New Orleans, La
+New York - John F. Kennedy, NY
+New York - La Guardia, NY
+New York - Newark, NJ
+New York, NY
+Newburgh, NY
+Newport News/Williamsburg, VA
+Niagara Falls Int'l
+Nome, AK
+Norfolk/Virginia Beach, VA
+North Bend, OR
+Oakland, CA
+Oklahoma City, OK - Will Rogers World
+Omaha, NE
+Ontario, CA
+Orange County (Santa Ana), CA
+Orlando Metropolitan Area, FL
+Oshkosh, WI
+Owensboro, KY
+Oxnard, CA
+Paducah, KY
+Page/Lake Powell, AZ
+Pakersburg, WV/Marietta, OH
+Palm Springs, CA
+Palmdale/Lancaster, CA
+Panama City, FL
+Pasco, WA
+Pellston, MI
+Pendelton, OR
+Pensacola, FL
+Peoria/Bloomington, IL
+Petersburg, AK
+Philadelphia, PA - Int'l
+Phoenix, AZ - Sky Harbor Int'l
+Pierre, SD
+Pittsburgh Int'l Airport, PA
+Plattsburgh, NY
+Pocatello, ID
+Port Angeles, WA
+Portland, ME
+Portland Int'l, OR
+Poughkeepsie, NY
+Presque Island, ME
+Providence, RI
+Prudhoe Bay, AK
+Pueblo, CO
+Pullman, WA
+Quincy, IL
+Raleigh/Durham, NC
+Rapid City, SD
+Reading, PA
+Redding, CA
+Redmond, OR
+Reno, NV
+Rhinelander, WI
+Richmond, VA
+Roanoke, VA
+Rochester, MN
+Rochester, NY
+Rock Springs, WY
+Rockford, IL
+Rockland, ME
+Rocky Mount - Wilson, NC
+Sacramento, CA
+Saginaw/Bay City/Midland, MI
+Salem, OR
+Salinas, CA
+Salisbury, MD
+Salt Lake City, UT
+San Angelo, TX
+San Antonio, TX
+San Diego - Lindberg Field Int'l, CA
+San Francisco - Int'l Airport, SA
+San Jose, CA
+San Luis Obisco, CA
+Santa Barbara, CA
+Santa Maria, CA
+Santa Rosa, CA
+Sarasota/Bradenton, FL
+Savannah, GA
+Scottsdale, AZ
+Seattle/Tacoma, WA
+Shenandoah Valley/Stauton, VA
+Sheridan, WY
+Shreveport, La
+Sidney, MT
+Sioux City, IA
+Sioux Falls, SD
+Sitka, AK
+Skagway, AK
+South Bend, IN
+Spokane, WA
+Springfield, IL
+Springfield, MO
+St. George, UT
+St. Louis - Lambert, MO
+State College/Belefonte, PA
+Steamboat Springs, CO
+Stockton, CA
+Sun Valley, ID
+Syracuse, NY
+Talkeetna, AK
+Tallahassee, FL
+Tampa Int'l, FL
+Telluride, CO
+Terre Haute, IN
+Texarkana, AR
+Thief River Falls, MN
+Thorne Bay, AK
+Toledo, OH
+Traverse City, MI
+Trenton/Princeton, NJ
+Tri-Cities Regional, TN/VA
+Tucson, AZ
+Tulepo, MS
+Tulsa, OK
+Tuscaloosa, AL
+Twin Falls, ID
+Tyler, TX
+Utica, NY
+Vail, CO
+Valdez, AK
+Valdosta, GA
+Vernal, UT
+Vero Beach/Ft. Pierce, FL
+Visalia, CA
+Waco, TX
+Walla Walla, WA
+Washington DC - Baltimore Washington Int'l
+Washington DC - Dulles Int'l
+Washington DC - Ronald Reagan National
+Washington, DC
+Waterloo, IA
+Watertown, SD
+Wausau/Stevens Point, WI
+Wenatchee, WA
+West Palm Beach, FL
+West Yellowstone, MT
+White Plains, NY
+Wichita Falls, TX
+Wichita, KS
+Wilkes Barre/Scranton, PA
+Williamsport, PA
+Williston, ND
+Wilmington, NC
+Wolf Point, MT
+Worcester, MA
+Worland, WY
+Wrangell, AK
+Yakima, WA
+Yakutat, AK
+Yuma, AZ
+Orlando Int'l Airport, FL
+Buenos Aires, Jorge Newbery
+Barranquilla
+Buenos Aires
+Catagena
+Buenos Aires, Ezeiza Int'l Airport
+Iguazu, Cataratas
+Easter Island
+Lima - J Chavez Int'l
+Montevideo - Carrasco
+Santiago de Chile - Arturo Merino Benitez
+Quito - Mariscal Sucr
+La Paz - El Alto
+Santa Cruz de la Sierra
+Punta Arenas
+Valparaiso
+Bogota
+Bucaramanga
+Iquitos
+Cordoba
+Mar del Plata
+Mendoza
+Rosario
+Salta, Gen Belgrano
+San Carlos de Bariloche
+Santa Rosa
+Cochabamba
+Santa Rosa
+Rio de Janeiro - Galeao
+Rio de Janeiro - Santos Dumont
+Rio de Janeiro
+Sao Paulo
+Sao Paulo - Congonhas
+Sao Paulo - Guarulhos
+Sao Paulo - Viracopos
+Aracaju
+Belem
+Belo Horizonte
+Boa Vista
+Brasilia
+Campo Grande
+Cuiaba
+Curitiba
+Florianopolis
+Fortaleza
+Goiania
+Guarulhos Int'l - Sao Paulo
+Joacaba
+Joao Pessoa - Castro Pinto
+Macapa
+Maceio
+Manaus
+Montenegro
+Natal
+Porto Alegre
+Porto Velho
+Recife
+Rio Branco
+Salvador
+Santa Rosa
+Sao Luis
+Teresina
+Uberlandia, MG
+Vitoria
+Cali
+Medellin
+Armenia
+Pereira
+San Andres
+Santa Rosalia
+Guayaquil
+Salinas
+Cayenne
+Conakry
+Labe
+Bissau
+Georgetown
+Asuncion
+Barcelona
+Caracas
+Maracaibo - La Chinita
+Margerita
+Puerto Ordaz
+Valencia
+Alice Springs
+Ayers Rock
+Perth Int'l
+Bora Bora
+Papeete - Faaa
+Pago Pago
+Adelaide
+Albany
+Albury
+Ayr
+Ballina
+Bamaga
+Blackwater
+Bowen
+Brampton Island
+Brisbane
+Broken Hill
+Broome
+Bundaberg
+Burnie (Wynyard)
+Cairns
+Canberra
+Carnarvon
+Casino
+Ceduna
+Cessnock
+Charters Towers
+Clermont
+Coffs Harbour
+Collinsville
+Coober Pedy
+Cooktown
+Cooma
+Dalby
+Darwin
+Daydream Island
+Derby
+Devonport
+Dubbo
+Dunk Iceland
+Dysart
+Emerald
+Emerald
+Esperance
+Geelong
+Geraldton
+Gladstone
+Gold Coast
+Goondiwindi
+Gove (Nhulunbuy)
+Great Keppel Island
+Griffith
+Groote Eyeland
+Groote Eylandt
+Gympie
+Hamilton
+Hamilton Island
+Hayman Island
+Hervey Bay
+Hinchinbrook Island
+Hobart
+Home Hill
+Ingham
+Innisfail
+Kalgoorlie
+Karratha
+Karumba
+Katherine
+Kingscote
+Kowanyama
+Kununurra
+Launceston
+Laverton
+Learmouth (Exmouth)
+Leinster
+Leonora
+Lindeman Island
+Lismore
+Lizard Island
+Lockhart River
+Longreach
+Mackay
+Maitland
+Maryborough
+Meekatharra
+Melbourne - Tullamarine
+Merimbula
+Middlemount
+Mildura
+Moranbah
+Moree
+Mount Gambier
+Mount Magnet
+Mt. Isa
+Narrabri
+Narrandera
+Newcastle - Belmont
+Newcastle - Williamtown
+Newman
+Noosa
+Norfolk Island
+Olympic Dam
+Orange
+Orpheus Island
+Paraburdoo
+Port Augusta
+Port Hedland
+Portland
+Port Lincoln
+Port Macquarie
+Prosperpine
+Queenstown
+Rockhampton
+Scone
+Shute Harbour
+Singleton
+South Molle Island
+Streaky Bay
+Sunshine Coast
+Sydney - Kingsford Smith
+Tamworth
+Taree
+Temora
+Tennant Creek
+Thursday Island
+Tom Price
+Toowoomba
+Townsville
+Wagga
+Warrnambool
+Weipa
+Whitsunday Resort
+Whyalla
+Wickham
+Wiluna
+Wollongong
+Woomera
+Wyndham
+Huahine
+Manihi
+Maupiti
+Moorea
+Raiatea
+Rangiroa
+Grenada
+Agana
+Guam
+Rarotonga Cook
+King Island
+Lifou
+Pohnpei
+Ile des Pins
+Ile Ouen
+Mare
+Noumea
+Touho
+Saipan
+Apia
+Guadalcanal
+Honiara Henderson Int'l
+Port Vila
+Santo
+Futuna
+Wallis
+Auckland
+Blenheim
+Christchurch
+Dunedin
+Incercargill
+Invercargill
+Milford Sound
+Mount Cook
+Nelson
+Palmerston North
+Queenstown
+Rotorua
+Te Anau
+Wellington
+Whakatane
+Whangarei
+Lome
+Nuku'alofa - Fua'Amotu International
+Phnom Penh - Pochentong
+Vientiane - Wattay
+Rangoon (Yangon) - Mingaladon
+Yangon (Rangoon) - Mingaladon
+Bandar Seri Begawan
+Kuala Belait
+Bujumbura
+Douala
+Garoua
+Maroua
+N'Gaoundere
+Yaounde
+Denpasar/Bali
+Jakarta - Halim Perdanakusma
+Jakarta - Kemayoran
+Jakarta - Soekarno-Hatta
+Medan
+Manado
+Surabaya - Juanda
+Tioman
+Ujung Pandang
+Bintulu
+Johore Bahru
+Kota Kinabalu
+Kuala Lumpur - Int'l Airport
+Kuala Lumpur - Sultan Abdul Aziz Shah
+Kuantan
+Kuching
+Labuan
+Langkawi
+Miri
+Penang International
+Sibu
+Tawau
+Lae
+Manguna
+Port Moresby - Jackson Field
+Cebu
+Mactan Island - Nab
+Manila - Ninoy Aquino Int'l
+Bangkok
+Chiang Mai
+Hatyai (Hat Yai)
+Pattaya
+Phuket
+Utapao (Pattaya)
+Hanoi - Noibai
+Ho Chi Minh City (Saigon)
+Hue - Phu Bai
+Saigon (Ho Chi Minh City)
